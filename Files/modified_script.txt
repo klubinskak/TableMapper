@@ -1,0 +1,3 @@
+SELECT *
+FROM MTE
+WHERE Id = 1
