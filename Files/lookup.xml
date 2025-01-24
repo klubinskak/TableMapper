@@ -1,0 +1,8 @@
+﻿<RemoteMapping>
+    <TableNames Source="MTE" Destination="MTEs">
+    <Columns>
+        <Column Source="MTE_NO" Destination="Id" />
+    </Columns>
+</TableNames>
+</RemoteMapping>
+

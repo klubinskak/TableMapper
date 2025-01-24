@@ -1,0 +1,6 @@
+﻿services:
+  tablemapper:
+    image: tablemapper
+    build:
+      context: .
+      dockerfile: Dockerfile
